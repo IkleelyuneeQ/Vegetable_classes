@@ -26,6 +26,8 @@ Validation Accuracy: ~98–100% across most classes
 
 A Streamlit application was developed, allowing users to upload vegetable images and receive real-time predictions. The app includes an Out-of-Distribution (OOD) feature to flag images that do not belong to any trained class.
 
+![Broccoli_prediction.png](Broccoli_prediction.png)
+
 ## 3. Results
 
 The model achieved very high precision, recall, and F1-scores across all classes, showing robust performance on unseen test data.
