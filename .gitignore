@@ -1,0 +1,13 @@
+# .gitignore
+
+# Ignore model weights
+*.pth
+*.pt
+
+# Ignore data folders
+Vegetable Images
+
+# Ignore logs and temp files
+*.log
+*.txt
+__pycache__/
