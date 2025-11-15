@@ -34,9 +34,10 @@ The model achieved very high precision, recall, and F1-scores across all classes
 
 Visual analysis using confusion matrices confirmed that the classifier consistently identified vegetables correctly with minimal misclassifications.
 
-Metric	Training Accuracy	Validation Accuracy	Test Accuracy
+| Metric             | Training Accuracy | Validation Accuracy | Test Accuracy |
+|--------------------|-------------------|----------------------|---------------|
+| ResNet-50 Model    | 99%               | 98%                  | 97%           |
 
-ResNet-50 Model	99%	98%	97%
 
 ## 4. Societal Impact
 
