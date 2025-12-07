@@ -1,4 +1,4 @@
-#🥦 Vegetable Classification Using ResNet-50
+# Vegetable Classification Using ResNet-50
 
 This project focuses on building a vegetable image classification model using PyTorch and ResNet-50. The dataset contains images of 15 different vegetables, divided into train, validation, and test folders. The model learns to classify images into one of these categories after preprocessing, normalization, and training.
 
